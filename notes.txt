@@ -72,3 +72,5 @@ see the changes in newBranch
 < git diff branchName >
 
 after all create a PR and merge the pull request
+ after all to see the changes on your local
+ < git pull origin main >
