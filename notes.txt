@@ -74,3 +74,6 @@ see the changes in newBranch
 after all create a PR and merge the pull request
  after all to see the changes on your local
  < git pull origin main >
+ 
+ delete a branch
+ < git branch -d branchName >
