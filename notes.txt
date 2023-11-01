@@ -67,3 +67,8 @@ check the no of branches
 
 create new branch
 < git checkout -b branchName>
+
+see the changes in newBranch
+< git diff branchName >
+
+after all create a PR and merge the pull request
