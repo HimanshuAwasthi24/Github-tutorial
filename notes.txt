@@ -10,3 +10,8 @@ place where your project is kept
 Github?
 website to host your repositories online
 
+git clone <repo url> => create a replica of your repo in local machine
+
+git status => check status of your changes
+
+git add . or filename => tell git to track your files and folders or put them in staging area
