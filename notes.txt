@@ -59,4 +59,6 @@ origin is the location of the github and master is the branch
 => copy repo url
 => into your local folder < git remote add origin <repo url> >
 => git remote -v
-=> git push -u origin master
+=> git push -u origin master => -u sets upstream as master with origin next time you want to push something you just have to do git push 
+
+******* Branching ***********
