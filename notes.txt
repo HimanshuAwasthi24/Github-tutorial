@@ -46,3 +46,17 @@ push your code from local to live github
 < git push origin master >
 
 origin is the location of the github and master is the branch
+
+
+******** pushing local folder on github ******
+=> mkdir folderName
+=> cd folderName
+=> git init
+=> make changes ---> touch README.md => write some text into it
+=> git add .
+=> git commit -m "message"
+=> create a repo at github
+=> copy repo url
+=> into your local folder < git remote add origin <repo url> >
+=> git remote -v
+=> git push -u origin master
