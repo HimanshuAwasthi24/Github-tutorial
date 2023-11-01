@@ -1,0 +1,12 @@
+What is Git?
+Free open source version control system.
+
+What is version control?
+tracking of changes in codes and managing websites
+
+Repository?
+place where your project is kept
+
+Github?
+website to host your repositories online
+
